@@ -237,6 +237,7 @@ Here is another example for a monochrome serial 16-segment display using a WS281
              s: l_neoseg_0_0_s
              t: l_neoseg_0_0_t
              u: l_neoseg_0_0_u
+             dp: l_neoseg_0_0_dp
          type: 16segment
 
 What if it did not work?
